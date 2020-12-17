@@ -19,10 +19,10 @@ number_of_guns = menu()
 manual(number_of_guns)
 target_radius = 50
 window_size_x = 1500
-window_size_y = 1000
-height_above_the_gun = 100
+window_size_y = 800
+height_above_the_gun = 70
 radius_of_gyration_min = 100
-radius_of_gyration_max = 300
+radius_of_gyration_max = 200
 max_speed = 20
 min_speed = 5
 move_1 = 0
